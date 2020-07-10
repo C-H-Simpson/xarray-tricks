@@ -3,6 +3,6 @@ This is a collection of examples covering anything that I found surprising or di
 
 ## The examples
 1. [Keeping attributes and CF compliance.](Attributes.ipynb)
-2. Grouped averages over year and month using `apply_ufunc`.
-3. Applying an operation by month using `apply_ufunc`.
-4. Using **dask localcluster** to multi process/thread.
+2. (TO DO) Grouped averages over year and month using `apply_ufunc`.
+3. (TO DO) Applying an operation by month using `apply_ufunc`.
+4. (TO DO) Using **dask localcluster** correctly to control multiprocessing.
