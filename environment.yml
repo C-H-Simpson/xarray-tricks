@@ -1,0 +1,6 @@
+name: xarray-tricks
+channels:
+  - defaults
+dependencies:
+  - xarray
+  - numpy
